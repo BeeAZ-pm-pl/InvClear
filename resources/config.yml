@@ -1,0 +1,5 @@
+clearinv-msg: "Successful Clear Inventory {player}"
+cleararmor-msg: "Successful Clear Armor {player}"
+no-player: "Player Not Found"
+usage-inv: "Usage : /clearinv <player>"
+usage-armor: "Usage : /cleararmor <player>"

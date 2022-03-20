@@ -1,0 +1,18 @@
+name: InvClear
+api: 4.0.0
+author: BeeAZZ
+version: 0.0.1
+main: BeeAZZ\InvClear\Main
+
+commands:
+ clearinv:
+  description: ClearInventory Command
+  permission: invclear.command.inv
+ cleararmor:
+  description: ClearArmor Command
+  permission: invclear.command.armor
+permissions:
+ invclear.command.inv:
+  default: op
+ invclear.command.armor:
+  default: op
